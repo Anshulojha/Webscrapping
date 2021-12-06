@@ -1,0 +1,7 @@
+**Movie recommendation based on emotion in Python**
+IMDb does not have an API  >>>>>for movies
+So we use Scrapping - It use to accesss html text from website which dost have api(jo info api se milti h vo web scrappijg se mil jati h)
+    >>Now we implement Web scrapping 
+        here we use Web Scraping framework of Python called Beautiful Soup.
+        Algo for web scrapping ---
+        
